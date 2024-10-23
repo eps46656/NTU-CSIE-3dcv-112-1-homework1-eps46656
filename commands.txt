@@ -1,0 +1,101 @@
+python 1-1.py images/1-0.png images/1-1.png groundtruth_correspondences/correspondence_01.npy False 4
+
+python 1.py images/1-0.png images/1-1.png groundtruth_correspondences/correspondence_01.npy False "[26, 141, 1047, 1255]"
+
+    best_idxes = [26, 141, 1047, 1255]
+    best_rep_err = 0.07342917858253102
+    best_err = 0.07342917858253102
+
+python 1-1.py images/1-0.png images/1-1.png groundtruth_correspondences/correspondence_01.npy False 8
+
+python 1.py images/1-0.png images/1-1.png groundtruth_correspondences/correspondence_01.npy False "[62, 180, 225, 343, 842, 1094, 1333, 1454]"
+
+    best_idxes = [62, 180, 225, 343, 842, 1094, 1333, 1454]
+    best_rep_err = 0.06933126885339236
+    best_err = 0.06933126885339236
+
+python 1-1.py images/1-0.png images/1-1.png groundtruth_correspondences/correspondence_01.npy False 20
+
+python 1.py images/1-0.png images/1-1.png groundtruth_correspondences/correspondence_01.npy False "[87, 268, 291, 445, 481, 502, 530, 543, 583, 673, 785, 827, 867, 902, 995, 1099, 1142, 1208, 1247, 1465]"
+
+    best_idxes = [87, 268, 291, 445, 481, 502, 530, 543, 583, 673, 785, 827, 867, 902, 995, 1099, 1142, 1208, 1247, 1465]
+    best_rep_err = 0.04101024775174799
+    best_err = 0.04101024775174799
+
+python 1-1.py images/1-0.png images/1-1.png groundtruth_correspondences/correspondence_01.npy True 4
+
+python 1.py images/1-0.png images/1-1.png groundtruth_correspondences/correspondence_01.npy True "[432, 453, 1142, 1333]"
+
+    best_idxes = [432, 453, 1142, 1333]
+    best_rep_err = 0.00020384837870041913
+    best_err = 0.06707765266445952
+
+python 1-1.py images/1-0.png images/1-1.png groundtruth_correspondences/correspondence_01.npy True 8
+
+python 1.py images/1-0.png images/1-1.png groundtruth_correspondences/correspondence_01.npy True "[288, 384, 495, 535, 995, 1114, 1137, 1171]"
+
+    best_idxes = [288, 384, 495, 535, 995, 1114, 1137, 1171]
+    best_rep_err = 0.0002374756093417141
+    best_err = 0.06260059913103626
+
+python 1-1.py images/1-0.png images/1-1.png groundtruth_correspondences/correspondence_01.npy True 20
+
+python 1.py images/1-0.png images/1-1.png groundtruth_correspondences/correspondence_01.npy True "[36, 47, 225, 308, 419, 460, 467, 550, 603, 700, 726, 986, 1092, 1259, 1285, 1323, 1327, 1374, 1377, 1454]"
+
+    best_idxes = [36, 47, 225, 308, 419, 460, 467, 550, 603, 700, 726, 986, 1092, 1259, 1285, 1323, 1327, 1374, 1377, 1454]
+    best_rep_err = 0.00016751894378089327
+    best_err = 0.05520619416996852
+
+python 1-1.py images/1-0.png images/1-2.png groundtruth_correspondences/correspondence_02.npy False 4
+
+python 1.py images/1-0.png images/1-2.png groundtruth_correspondences/correspondence_02.npy False "[6, 36, 73, 79]"
+
+    best_idxes = [6, 36, 73, 79]
+    best_rep_err = 0.43088028522378446
+    best_err = 0.43088028522378446
+
+python 1-1.py images/1-0.png images/1-2.png groundtruth_correspondences/correspondence_02.npy False 8
+
+python 1.py images/1-0.png images/1-2.png groundtruth_correspondences/correspondence_02.npy False "[0, 1, 21, 39, 40, 51, 73, 79]"
+
+    best_idxes = [0, 1, 21, 39, 40, 51, 73, 79]
+    best_rep_err = 0.4078356969139367
+    best_err = 0.4078356969139367
+
+python 1-1.py images/1-0.png images/1-2.png groundtruth_correspondences/correspondence_02.npy False 20
+
+python 1.py images/1-0.png images/1-2.png groundtruth_correspondences/correspondence_02.npy False "[8, 17, 21, 21, 26, 28, 42, 46, 47, 53, 55, 57, 59, 65, 79, 81, 81, 81, 82, 86]"
+
+    best_idxes = [8, 17, 21, 21, 26, 28, 42, 46, 47, 53, 55, 57, 59, 65, 79, 81, 81, 81, 82, 86]
+    best_rep_err = 0.40373072728732046
+    best_err = 0.40373072728732046
+
+python 1-1.py images/1-0.png images/1-2.png groundtruth_correspondences/correspondence_02.npy True 4
+
+python 1.py images/1-0.png images/1-2.png groundtruth_correspondences/correspondence_02.npy True "[7, 36, 79, 86]"
+
+    best_idxes = [7, 36, 79, 86]
+    best_rep_err = 0.002203634694735489
+    best_err = 0.4005019273388221
+
+python 1-1.py images/1-0.png images/1-2.png groundtruth_correspondences/correspondence_02.npy True 8
+
+python 1.py images/1-0.png images/1-2.png groundtruth_correspondences/correspondence_02.npy True "[2, 8, 28, 29, 36, 46, 65, 77]"
+
+    best_idxes = [2, 8, 28, 29, 36, 46, 65, 77]
+    best_rep_err = 0.0017208148366189015
+    best_err = 0.3170990642652302
+
+python 1-1.py images/1-0.png images/1-2.png groundtruth_correspondences/correspondence_02.npy True 20
+
+python 1.py images/1-0.png images/1-2.png groundtruth_correspondences/correspondence_02.npy True "[0, 2, 5, 7, 8, 12, 14, 22, 26, 27, 29, 41, 55, 56, 59, 59, 65, 77, 83, 86]"
+
+    best_idxes = [0, 2, 5, 7, 8, 12, 14, 22, 26, 27, 29, 41, 55, 56, 59, 59, 65, 77, 83, 86]
+    best_rep_err = 0.0014519170213766635
+    best_err = 0.2786376387714364
+
+
+
+
+
+python 2.py images/origin_doc.png images/rect_doc.png 877 620
